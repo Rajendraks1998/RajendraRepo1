@@ -8,6 +8,8 @@ public class DenoClass {
 		int depth=45;
 		
 		System.out.println(depth);
+		System.out.println(heigth);
+		
 		
 	}
 	
